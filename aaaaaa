@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <updated>2013-09-04T03:07:56Z</updated>
+ <id>http://code.google.com/feeds/p/hadoop-snappy/downloads/basic</id>
+ <title>Downloads for project hadoop-snappy on Google Code</title>
+ <link rel="self" type="application/atom+xml;type=feed" href="http://code.google.com/feeds/p/hadoop-snappy/downloads/basic"/>
+ <link rel="alternate" type="text/html" href="http://code.google.com/p/hadoop-snappy/downloads/list"/>
+ 
+</feed>
